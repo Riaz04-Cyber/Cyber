@@ -3,7 +3,7 @@ Here’s an updated **GitHub Profile README** format with a dedicated **Projects
 ---
 
 # **Mohamed Riyaz** 👋  
-"Cybersecurity Enthusiast | SOC Analyst | Ethical Hacker
+"Cybersecurity Enthusiast | SOC Analyst | Ethical Hacker"
 
 ## 🚀 **About**  
 - 🔹 **Role:** SOC Analyst | Cybersecurity Enthusiast  
@@ -16,7 +16,7 @@ Here’s an updated **GitHub Profile README** format with a dedicated **Projects
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nmap](https://upload.wikimedia.org/wikipedia/commons/7/7b/Nmap_logo.svg)
+![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDIwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iMTAiIHk9IjYwIiBmb250LXNpemU9IjUwIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmaWxsPSIjMDA3OEQ3Ij5ObWFwPC90ZXh0Pjwvc3ZnPg==)
 
 
 ## 📌 **Projects**  
